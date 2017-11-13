@@ -1,5 +1,6 @@
 # shaonian
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c913db53b5a3470f840f5329ea2f54d4)](https://www.codacy.com/app/hijiangtao/shaonian?utm_source=github.com&utm_medium=referral&utm_content=hijiangtao/shaonian&utm_campaign=badger)
 [![npm](https://img.shields.io/npm/v/shaonian.svg)]()
 [![Github All Releases](https://img.shields.io/github/downloads/hijiangtao/shaonian/total.svg)]()
 [![npm](https://img.shields.io/npm/dt/shaonian.svg)]()
