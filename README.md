@@ -9,6 +9,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]() 
 [![license](https://img.shields.io/github/license/hijiangtao/shaonian.svg)]() 
 
+[![NPM](https://nodei.co/npm/shaonian.png)](https://nodei.co/npm/shaonian/)
+
 ## Installation
 
 ```
